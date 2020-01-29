@@ -28,7 +28,7 @@ class Point(object):
         return (self.x * point2.x) + (self.y * point2.y)
 
 
-point0 = Point(3, 4)
-point1 = Point(5, 6)
+point0 = Point(1, 0)
+point1 = Point(-1, 0)
 
 print(point0 * point1)
