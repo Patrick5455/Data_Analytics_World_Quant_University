@@ -24,8 +24,14 @@ class Point(object):
     def __repr__(self):
         return "Point(%s, %s)" % (self.x, self.y)
 
-    def __mul__(self, point2, scalar=False):
-        return (self.x * point2.x) + (self.y * point2.y)
+    def __mul__(self, other, scalar=False):
+        if isinstance(other, (float, int)):
+            return (self.x * other) + (self.y * other)
+        elif isinstance(other, Point):
+            return (self.x * other.x) + (self.y * other.y)
+
+    def distance(self, center):
+        pass
 
 
 point0 = Point(1, 0)
