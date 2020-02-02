@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c05e6e8-c3fe-471f-816e-d98508d6cd9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Python/Python Programs/functions_data_strutures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/alpahabet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ML Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML Programs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/USER.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/USER.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/Data Structures and Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/Data Structures and Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/dictionaries/USER.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/dictionaries/USER.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/PrimeNo_Algorithms/Lucas_Lehmer_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/PrimeNo_Algorithms/Lucas_Lehmer_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/PrimeNo_Algorithms/Optimize_isPrimeFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/PrimeNo_Algorithms/Optimize_isPrimeFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/binarysearch_method2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/binarysearch_method2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/find_ele_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/find_ele_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/find_ele_sort_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/find_ele_sort_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/search_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures_and_Algorithms/searchAlgorithm/search_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/OOP_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/OOP_in_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/classes_objects/defining_useful_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/classes_objects/defining_useful_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/classes_objects/intro_to_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/classes_objects/intro_to_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/classes_objects/oop_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/classes_objects/oop_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/oop_exercises/exercise_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/setuptools.pth" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/Scripts/pip3.7-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_in_Python/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_in_Python/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program_Flow/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program_Flow/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +66,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Python/Python Programs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WStwi5nScPQlM2EMg3cFQPr81y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +77,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/Python Programs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -110,7 +160,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WQU/OOP_in_Python/oop_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -144,6 +194,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.binarysearch_method2" />
+      <item itemvalue="Python.exercise_2" />
+      <item itemvalue="Python.exercise_3" />
+      <item itemvalue="Python.exercise_4" />
+      <item itemvalue="Python.find_ele_sort_binary" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.exercise_4" />
@@ -180,26 +237,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1580016407040">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="220" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580633103331">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="220" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580633103331" />
+    <state x="667" y="142" width="642" height="822" key="#exercise_4" timestamp="1580631704170">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="667" y="142" width="642" height="822" key="#exercise_4/67.27.1853.1053@67.27.1853.1053" timestamp="1580631704170" />
+    <state x="163" y="144" width="1198" height="807" key="CommitChangelistDialog2" timestamp="1580632411784">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="163" y="144" width="1198" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580632411784" />
+    <state x="676" y="178" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580633071373">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1580016407040" />
-    <state width="876" height="90" key="GridCell.Tab.0.bottom" timestamp="1580200940600">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="676" y="178" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580633071373" />
+    <state width="1367" height="260" key="GridCell.Tab.0.bottom" timestamp="1580633169335">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="876" height="90" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580200940600" />
-    <state width="876" height="90" key="GridCell.Tab.0.center" timestamp="1580200940599">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1367" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580633169335" />
+    <state width="1367" height="260" key="GridCell.Tab.0.center" timestamp="1580633169334">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="876" height="90" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1580200940599" />
-    <state width="876" height="90" key="GridCell.Tab.0.left" timestamp="1580200940599">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1367" height="260" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580633169334" />
+    <state width="1367" height="260" key="GridCell.Tab.0.left" timestamp="1580633169334">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="876" height="90" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1580200940599" />
-    <state width="876" height="90" key="GridCell.Tab.0.right" timestamp="1580200940600">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1367" height="260" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580633169334" />
+    <state width="1367" height="260" key="GridCell.Tab.0.right" timestamp="1580633169335">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="876" height="90" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1580200940600" />
+    <state width="1367" height="260" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580633169335" />
     <state width="1123" height="132" key="GridCell.Tab.1.bottom" timestamp="1579989333503">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -220,13 +294,19 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="385" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1580019964773" />
-    <state x="336" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1580201636063">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="121" y="121" key="SettingsEditor" timestamp="1580633152582">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="121" y="121" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580633152582" />
+    <state x="553" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1580632732022">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="336" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1580201636063" />
-    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1580023416688">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="553" y="298" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580632732022" />
+    <state x="587" y="87" width="973" height="992" key="search.everywhere.popup" timestamp="1580632963362">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1580023416688" />
+    <state x="587" y="87" width="973" height="992" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580632963362" />
   </component>
 </project>
