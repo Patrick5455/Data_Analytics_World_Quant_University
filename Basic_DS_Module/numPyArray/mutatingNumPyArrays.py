@@ -24,6 +24,7 @@ y=an_array.ravel().shape  # returns the shape of the unravel array
 
 y=an_array.transpose()
 
+
 print(y, end='Transpose reshpaing')
 
 # stcking array
