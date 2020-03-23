@@ -41,13 +41,13 @@ book2 = {'title': 'The Little Prince',
 library = [book1, book2]
 
 ##this is how to read into a json fiile.
-with open('./Data/library.json','r') as f:
+with open('../Data/library.json', 'r') as f:
     reloaded_library = json.load(f)
 print(reloaded_library)
 print(reloaded_library==library)
 
 ## if we simply read a json file like below, we end up with a bunch of strings and unwanted output
-with open('./Data/library.json','r') as f:
+with open('../Data/library.json', 'r') as f:
     library_string = f.read()
 print(library_string)
 
@@ -57,7 +57,7 @@ print(json.loads(library_string))
 
 #reading a json file with pandas. Pandas tries to pass a json format into a tabular format.
 # json files are not well represented in tabular format. notice the output
-panda = pd.read_json('./Data/library.json')
+panda = pd.read_json('../Data/library.json')
 print('Panda Tabular JSON', end='\n')
 print(panda)
 

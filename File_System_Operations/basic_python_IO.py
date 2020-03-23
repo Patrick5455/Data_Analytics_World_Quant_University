@@ -16,7 +16,7 @@ f.close()
 
 # print(data)
 
-f = open('./Data/Alabamarket_python.txt', 'r')
+f = open('../Data/Alabamarket_python.txt', 'r')
 alaba = f.read()
 f.close()
 totalCount = 0
@@ -32,7 +32,7 @@ print(totalCount)
 # so usually we will do it automatically using Pyhton's 'with' keyword
 # This is known as a context handler
 
-with open('./Data/Alabamarket_python.txt','r') as f:
+with open('../Data/Alabamarket_python.txt', 'r') as f:
     alabaWith = f.read()
 # no need to do f.close() again, it has been closed automatically woth the python with  keyword
 # print(alabaWith)
@@ -51,12 +51,18 @@ with open('./Sampletxt', 'a') as f:
 # to read a file, it must pre-exist
 # but we can write to a new file non-existing. It simply creates a new file
 
-with  open('Data/NewFile.txt', 'w+') as f:
+with  open('../Data/NewFile.txt', 'w+') as f:
     f.write("This is a new file that was created from the IDE")
     NewFile = f.read()
 print(NewFile)
 
 
-with open('Data/NewFile.txt') as f:
+with open('../Data/NewFile.txt') as f:
     NewFile = f.read()
 print(NewFile)
+
+import os
+
+cwd = os.getcwd()  # Get the current working directory (cwd)
+files = os.listdir(cwd)  # Get all the files in that directory
+print("Files in %r: %s" % (cwd, files))

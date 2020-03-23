@@ -10,15 +10,15 @@ import os
 print(os.listdir('./'))
 # the above prints out all the files in my current directory
 
-print(os.listdir('./Data'))
+print(os.listdir('../Data'))
 # the above prints out all the files in my sub-directory
 
 #with 'listdir' we only see the files and subdirectories under the particulat directory we are looking in .
 # We cannot use listdir to automatically search through subdirectories. For this we need to use 'walk', which 'walks'
 # through all the subdirectories. And (os.path sub-module) for working with file sin Python, particularly if you are working with many different data files at once.
 
-print(os.path.getsize('./Data'))
-print(os.path.getatime('./Data'))
+print(os.path.getsize('../Data'))
+print(os.path.getatime('../Data'))
 print(os.walk('.'))
 
 # the below works me through all the subdirectories from my root directory
