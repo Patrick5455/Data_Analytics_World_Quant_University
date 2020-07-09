@@ -17,3 +17,4 @@
 - Summary Statistics with Pure Python
 - OOP & ALgorithms
 - Summary Statistics with Numpy and Pandas
+- K-Means CLustering
